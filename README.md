@@ -1,2 +1,2 @@
 # RFID-In-Med
-RFID Based Surgical Equipment Counting and Detection System
+Radio Frequency Identification (RFID) Based Surgical Equipment Counting and Detection System
